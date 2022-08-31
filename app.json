@@ -27,7 +27,7 @@
       "description": "Telegram bot token. See https://github.com/ebeneditos/telegram.bot#generating-an-access-token"
     },
     "WEBHOOK_URL": {
-      "description": "The URL for the webhook; typically suffixed with /webhook. Use the Heroku application URL. E.g. https://your-app-name.herokuapp.com/webhook"
+      "description": "The URL for the webhook; typically suffixed with /webhook. Use the Heroku application URL. E.g. https://app-name.herokuapp.com/webhook"
     }
   }
 }
