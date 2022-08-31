@@ -9,7 +9,7 @@
     "heroku-buildpack-r"
   ],
   "repository": "https://github.com/virtualstaticvoid/heroku-telegram-bot-webhook",
-  "logo": "https://github.com/virtualstaticvoid/heroku-telegram-bot-webhook/raw/master/logo.png",
+  "logo": "https://github.com/virtualstaticvoid/heroku-telegram-bot-webhook/raw/main/logo.png",
   "success_url": "/",
   "formation": {
     "worker": {
