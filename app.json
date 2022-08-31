@@ -12,7 +12,7 @@
   "logo": "https://github.com/virtualstaticvoid/heroku-telegram-bot-webhook/raw/main/logo.png",
   "success_url": "/",
   "formation": {
-    "worker": {
+    "web": {
       "command": "R --no-save --quiet -s --file=/app/bot.R",
       "quantity": 1
     }
