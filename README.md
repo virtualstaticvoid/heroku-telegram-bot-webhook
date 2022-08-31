@@ -16,7 +16,7 @@ Execute these commands to get started:
 * Clone the Project
 
   ```bash
-  git clone https://github.com/virtualstaticvoid/heroku-telegram-bot-app.git
+  git clone https://github.com/virtualstaticvoid/heroku-telegram-bot-webhook.git
   ```
 
 * Create Heroku Application
