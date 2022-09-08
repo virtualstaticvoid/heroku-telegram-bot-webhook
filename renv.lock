@@ -139,10 +139,10 @@
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "6539dd8c651e67e3b55b5ffea106362b",
+      "Hash": "971c3d698fc06dabdac6bc4bcda72dc4",
       "Requirements": []
     },
     "sys": {
@@ -155,23 +155,17 @@
     },
     "telegram.bot": {
       "Package": "telegram.bot",
-      "Version": "2.4.3",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteUsername": "virtualstaticvoid",
-      "RemoteRepo": "telegram.bot",
-      "RemoteRef": "webhook",
-      "RemoteSha": "936e328fd7f34c8d42985e176bb80221c9ef10ac",
-      "Hash": "e031284053f028c7159e1b4f3271a6ab",
+      "Version": "3.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "5ada43cea2e60662b12eae682a5c517b",
       "Requirements": [
         "R6",
         "curl",
         "httpuv",
         "httr",
         "jsonlite",
-        "openssl",
-        "promises"
+        "openssl"
       ]
     }
   }
